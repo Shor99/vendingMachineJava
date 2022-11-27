@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-
-public class Products extends VendingMachine{
+public class Products {
     private String name;
     private int price;
 

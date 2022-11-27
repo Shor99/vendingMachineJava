@@ -1,4 +1,4 @@
-public class HandyMan extends VendingMachine{
+public class HandyMan {
     private String name;
     private String passcode = "1234";
     public HandyMan(String name) {

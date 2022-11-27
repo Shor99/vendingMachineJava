@@ -13,7 +13,6 @@ public class Main {
         int exit;
         boolean on = true;
         ArrayList<Products> products = new ArrayList<>();
-        VendingMachine vendingMachine = new VendingMachine();
         HandyMan handyMan = new HandyMan("John");
         Beverages cola = new Beverages("Coca Cola",6);
         Beverages fanta = new Beverages("Fanta",6);
